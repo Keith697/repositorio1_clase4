@@ -13,7 +13,7 @@ import java.util.Scanner;
 public class Proyecto1_clase4 {
     public static void main(String[] args) {
         //declarar variables
-        int n1,n2, suma;
+        int n1,n2,suma;
 Scanner lectura = new Scanner(System.in);// Scanner para ingresar algun dato
 //Entrada de datos
 System.out.print("Ingresar Numero 1:");
